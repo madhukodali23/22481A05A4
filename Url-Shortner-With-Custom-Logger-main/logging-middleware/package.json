@@ -1,0 +1,15 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "A reusable logging middleware for web applications",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "logging",
+    "middleware",
+    "web"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
