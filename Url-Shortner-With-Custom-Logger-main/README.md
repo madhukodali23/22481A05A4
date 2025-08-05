@@ -6,7 +6,7 @@ A fully functional URL shortener application built with Next.js and React, featu
 
 ## Features
 
-![URL Shortener Application](url-shortner/demo-screenshot.png)
+[![URL Shortener Application](url-shortner/demo-screenshot.png)](https://res.cloudinary.com/djnzrkoku/image/upload/v1754378713/Screenshot_2025-08-05_124828_ynjjzp.png)
 
 _The URL Shortener application in action - showing the bulk URL creation form with validation and success feedback._
 
